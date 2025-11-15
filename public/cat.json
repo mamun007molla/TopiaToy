@@ -1,0 +1,8 @@
+[
+  { "categoryId": 1, "categoryName": "Building Blocks" },
+  { "categoryId": 2, "categoryName": "Vehicles" },
+  { "categoryId": 3, "categoryName": "Plush Toys" },
+  { "categoryId": 4, "categoryName": "STEM Kits" },
+  { "categoryId": 5, "categoryName": "Arts & Crafts" },
+  { "categoryId": 6, "categoryName": "Outdoor Toys" }
+]
